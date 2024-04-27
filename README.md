@@ -15,5 +15,16 @@ The website also has a "About" page and a "Contact" page.
 * ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+## Screenshots
+<kbd><img src="https://github.com/poojasharma097/Blog-Website/blob/master/screenshots/Blog-home.png" /></kbd> 
+&nbsp;&nbsp;&nbsp;
+<kbd><img src="https://github.com/poojasharma097/Blog-Website/blob/master/screenshots/Blog-compose.png" /></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd><img src="https://github.com/poojasharma097/Blog-Website/blob/master/screenshots/Blog-sample.png" /></kbd>
+
+
 ## Contact Me
 LinkedIn Profile: [Pooja Sharma](https://www.linkedin.com/in/pooja-sharma-a80458222/)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/poojasharma097)
